@@ -45,3 +45,4 @@ while help_needed is True:
     answer = input("Mohu Vam pomoci s necim dalsim? Ano nebo ne? ")
     if answer == "Ne":
         help_needed = False 
+3
